@@ -54,6 +54,7 @@
     "@types/recompose": "^0.22.0"
   },
   "devDependencies": {
+    "ant-design-pro": "^1.0.1",
     "antd": "^2.12.2"
   }
 }
